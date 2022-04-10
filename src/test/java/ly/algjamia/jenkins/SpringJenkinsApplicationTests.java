@@ -17,6 +17,7 @@ class SpringJenkinsApplicationTests {
 	void contextLoads() {
 		logger.info("Test Execution First....");
 		logger.info("Test Execution Second....");
+		logger.info("Test Execution third....");
 		assertEquals(true, true);
 	}
 
